@@ -64,7 +64,11 @@ The Serial Monitor displays values ranging from **0 to 1023**.
 - At the middle position: approximately 512.
 - At the other end: approximately 1023.
 
-<Note>Actual readings may vary slightly depending on the potentiometer position and supply voltage.</Note>
+<Note>Actual readings may vary slightly depending on the potentiometer position and supply voltage.
+
+![Potentiometer Output](potentiometer.jpeg)
+
+[View Arduino Code](potentiometer.ino)
 
 ## **📚 Concepts Learned**
 
